@@ -1,2 +1,2 @@
 # Data-Analytics-Portfolio
-A series of 
+I am interested in upskilling in Machine Learning for Data Analysis to improve marketing campaigns and operations
